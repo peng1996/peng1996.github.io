@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://peng1996.github.io</id>
-    <title>:-)</title>
-    <updated>2021-05-08T14:13:38.675Z</updated>
+    <title>blog</title>
+    <updated>2021-05-08T14:15:20.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://peng1996.github.io"/>
     <link rel="self" href="https://peng1996.github.io/atom.xml"/>
     <subtitle>与其感慨路难行，不如马上出发 :-)</subtitle>
     <logo>https://peng1996.github.io/images/avatar.png</logo>
     <icon>https://peng1996.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, :-)</rights>
+    <rights>All rights reserved 2021, blog</rights>
     <entry>
         <title type="html"><![CDATA[MySQL 间隙锁]]></title>
         <id>https://peng1996.github.io/post/mysql-jian-xi-suo/</id>
